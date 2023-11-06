@@ -1,4 +1,4 @@
-# esame_abilità
+# esame_abilit\'a
 Esame abilità Informatiche e Telematiche
 
 il file bash "ability_script.sh" scaricherà in automatico il file dal link, estrarrà i dati dall'archivio e li salverà nella stessa cartella dello script. Dopodichè si deve far partire il file ppython "esame_ability.py".
